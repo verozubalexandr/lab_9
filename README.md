@@ -12,7 +12,9 @@
 
 *Таблица соответствий кодов и описаний погоды*
 0             ->     Clear sky
+
 1, 2, 3	      ->     Mainly clear, partly cloudy, and overcast
+
 45, 48	      ->     Fog and depositing rime fog
 51, 53, 55  	->     Drizzle: Light, moderate, and dense intensity
 56, 57	      ->     Freezing Drizzle: Light and dense intensity
